@@ -23,4 +23,8 @@ public class HomePage extends PageBase {
         getDriver().findElement(By.xpath(commonLinkString.replace("LINK", link))).click();
         LOGGER.info("Link " + link + " Clicked");
     }
+
+    public static String getHomePageTxt(){
+        return getDriver().findElement(hdrWelcome).getText();
+    }
 }

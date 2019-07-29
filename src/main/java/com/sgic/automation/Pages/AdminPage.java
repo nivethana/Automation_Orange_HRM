@@ -16,10 +16,17 @@ public class AdminPage extends PageBase {
     public static By btnReset=By.id("resetBtn");
     public static By btnAdd=By.xpath("//*[@id=\"btnAdd\"]");
     public static By btnDelete=By.id("btnDelete");
+    public static By tableAdduser=By.id("frmList_ohrmListComponent");
+
+
 
 
     public static boolean isAdminPageDisplayed(){
         return getDriver().findElement(btnAdd).isDisplayed();
+    }
+
+    public static boolean isUserTableDisplayed(){
+        return getDriver().findElement(tableAdduser).isDisplayed();
     }
 
     public static void clickUserManagement(){
@@ -45,6 +52,8 @@ public class AdminPage extends PageBase {
     public static void clickSearch(){
         getDriver().findElement(btnSearch).click();
     }
+
+
 
 
 }
