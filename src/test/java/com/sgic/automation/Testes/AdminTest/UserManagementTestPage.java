@@ -14,7 +14,7 @@ public class UserManagementTestPage extends TestBase {
 
     //** VerifyHomePage **
 
-    @Test(groups = "REGRESSION", priority = 1)
+    @Test( priority = 1)
     public void testVerifyAdminPage() {
         softAssert = new SoftAssert();
         softAssert.assertTrue(LoginPage.isLoginPageDisplayed(),"Login Logo is not displyed ");
@@ -48,7 +48,7 @@ public class UserManagementTestPage extends TestBase {
         AdminAddPage.setUsername("12345678");
         AdminAddPage.setConformPassword("12345678");
         AdminAddPage.clickAddSave();
-       // softAssert.assertTrue(AdminPage.isUserTableDisplayed(),"Table is not displyed");
+       softAssert.assertTrue(AdminPage.isUserTableDisplayed(),"Table is not displyed");
 
         softAssert.assertAll();
 

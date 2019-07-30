@@ -1,5 +1,5 @@
 package com.sgic.automation.Utils;
-
+import com.sgic.automation.Pages.LoginPage;
 import org.apache.log4j.Logger;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -29,6 +29,14 @@ public class TestBase {
             e.printStackTrace();
         }
         LOGGER.info("Browser Initiated");
+        // login page is launched shath
+
+        LoginPage.setusername(Constants.LOGIN_USER_NAME);
+        LOGGER.info("Orange Hrm Login Test Username");
+        LoginPage.setPassword(Constants.LOGIN_PASSWORD);
+        LOGGER.info("Orange Hrm Login Test Password");
+        LoginPage.clickSubmit();
+        LOGGER.info("Orange Hrm Login Button Click");
     }
 
     @BeforeMethod

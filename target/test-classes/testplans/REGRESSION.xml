@@ -3,7 +3,8 @@
 <suite name="REGRESSION" verbose="1" configfailurepolicy="continue">
     <test name="REGRESSION">
     <classes>
-        <class name="com.sgic.automation.Testes.AdminTestPage"/>
+        <class name="com.sgic.automation.Testes.AdminTest.UserManagementTestPage"/>
+        <class name="com.sgic.automation.Testes.PerformanceTest.PerformanceTest.Logintest"/>
 
     </classes>
     </test>

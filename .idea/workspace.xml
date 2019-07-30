@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff5491a-9bf0-45fc-a07b-0d485cd78cc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminAddPage.java" afterDir="false" />
+    <list default="true" id="09694695-583d-4cf5-8888-8d4a8292cbd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsAddPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsSearchPageWithJobTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/PerformanceMenuPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsAddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsSearchPageWithJobTitleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/Logintest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_OrangeSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sgic/automation/TestData/UserDetailsDataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sgic/automation/TestData/UserDetailsDataProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sgic/automation/Pages/DashboardPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sgic/automation/Testes/Admin_Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testplans/REGRESSION.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testplans/REGRESSION.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sgic/automation/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sgic/automation/Pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sgic/automation/Utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sgic/automation/Utils/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sgic/automation/TestData/UserDetailsDataProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sgic/automation/TestData/UserDetailsDataProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/sgic/automation/Utils/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/sgic/automation/Utils/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/testplans/REGRESSION.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testplans/REGRESSION.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,100 +35,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="9" column="75" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="75" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/HomePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/Logintest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+            <state relative-caret-position="122">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="27" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#1000#1001#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminAddPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="46" column="71" lean-forward="true" selection-start-line="46" selection-start-column="71" selection-end-line="46" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#895#896#0" expanded="true" />
-                <element signature="e#963#964#0" expanded="true" />
-                <element signature="e#1010#1011#0" expanded="true" />
-                <element signature="e#1076#1077#0" expanded="true" />
-                <element signature="e#1112#1113#0" expanded="true" />
-                <element signature="e#1167#1168#0" expanded="true" />
-                <element signature="e#1307#1308#0" expanded="true" />
-                <element signature="e#1383#1384#0" expanded="true" />
-                <element signature="e#1397#1398#0" expanded="true" />
-                <element signature="e#1470#1471#0" expanded="true" />
-                <element signature="e#1354#1355#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#2037#2038#0" expanded="true" />
-                <element signature="e#2087#2088#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#915#916#0" expanded="true" />
-                <element signature="e#948#949#0" expanded="true" />
-                <element signature="e#1101#1102#0" expanded="true" />
-                <element signature="e#1169#1170#0" expanded="true" />
-                <element signature="e#1034#1035#0" expanded="true" />
-                <element signature="e#1060#1061#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
-                <element signature="e#1217#1218#0" expanded="true" />
-                <element signature="e#1232#1233#0" expanded="true" />
-                <element signature="e#1287#1288#0" expanded="true" />
-                <element signature="e#1346#1347#0" expanded="true" />
-                <element signature="e#1372#1373#0" expanded="true" />
-                <element signature="e#1481#1482#0" expanded="true" />
-                <element signature="e#1557#1558#0" expanded="true" />
-                <element signature="e#1595#1596#0" expanded="true" />
-                <element signature="e#1650#1651#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -123,8 +67,119 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="50">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/PerformanceMenuPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="55">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#966#967#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="e#994#995#0" expanded="true" />
+                <element signature="e#1055#1056#0" expanded="true" />
+                <element signature="e#1110#1111#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#1227#1228#0" expanded="true" />
+                <element signature="e#1294#1295#0" expanded="true" />
+                <element signature="e#1318#1319#0" expanded="true" />
+                <element signature="e#1374#1375#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1482#1483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsAddPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#891#892#0" expanded="true" />
+                <element signature="e#963#964#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#1427#1428#0" expanded="true" />
+                <element signature="e#1492#1493#0" expanded="true" />
+                <element signature="e#1425#1426#0" expanded="true" />
+                <element signature="e#1481#1482#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsSearchPageWithJobTitle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsSearchPageWithJobTitleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsAddTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,66 +203,65 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/PageBase.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/Constants.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/DashboardPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils/TestBase.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/TestData/UserDetailsDataProvider.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/testplans/REGRESSION.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/Admin_Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTestPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/AdminTestPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminAddPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/testplans/REGRESSION.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/TestData/UserDetailsDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/PerformancePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/PerformanceMenuPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsAddPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsAddTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsSearchPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsSearchPageWithJobTitle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/Logintest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsSearchPageWithJobTitleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils/TestBase.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -215,7 +269,7 @@
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -224,7 +278,7 @@
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -233,20 +287,20 @@
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -254,22 +308,61 @@
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Testes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Testes" type="462c0819:PsiDirectoryNode" />
+              <item name="AdminTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Testes" type="462c0819:PsiDirectoryNode" />
+              <item name="PerformanceTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="automation" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation_OrangeSystem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation_OrangeSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation_Orange_HRM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -279,23 +372,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Pakikaran\Desktop\JENKINSAutoation\Automation_OrangeSystem" />
-      <recent name="C:\Users\Pakikaran\Desktop\JENKINSAutoation\Automation_OrangeSystem\src\test\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.sgic.automation.Testes.AdminTest" />
-      <recent name="com.sgic.automation.TestData" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Pakikaran\Desktop\JENKINSAutoation\Automation_OrangeSystem\src\test" />
+      <recent name="D:\ORANGE HRM HARDWORK\shath 1\Automation_Orange_HRM\src\test\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -310,18 +395,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.UserManagementTestPage.testAddAdminPage">
-    <configuration name="AdminTestPage.testVerifyHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.KPIsSearchPageWithJobTitleTest">
+    <configuration name="KPIsAddTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_OrangeSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sgic.automation.Testes.AdminTest.*" />
+          <option name="PATTERN" value="com.sgic.automation.Testes.PerformanceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes" />
-      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.AdminTest.AdminTestPage" />
-      <option name="METHOD_NAME" value="testVerifyHomePage" />
+      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes.PerformanceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.PerformanceTest.KPIsAddTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KPIsAddTest.SmokeKPIsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_OrangeSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sgic.automation.Testes.PerformanceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes.PerformanceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.PerformanceTest.KPIsAddTest" />
+      <option name="METHOD_NAME" value="SmokeKPIsTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -329,17 +431,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdminTestPage.testVerifyLogin1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KPIsAddTest.verifyKPIsTest2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_OrangeSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sgic.automation.Testes.AdminTest.*" />
+          <option name="PATTERN" value="com.sgic.automation.Testes.PerformanceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes" />
-      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.AdminTest.AdminTestPage" />
-      <option name="METHOD_NAME" value="testVerifyLogin1" />
+      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes.PerformanceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.PerformanceTest.KPIsAddTest" />
+      <option name="METHOD_NAME" value="verifyKPIsTest2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -347,35 +449,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserManagementTestPage.testAddAdminPage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KPIsSearchPageWithJobTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_OrangeSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sgic.automation.Testes.AdminTest.*" />
+          <option name="PATTERN" value="com.sgic.automation.Testes.PerformanceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes.AdminTest" />
-      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.AdminTest.UserManagementTestPage" />
-      <option name="METHOD_NAME" value="testAddAdminPage" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes.PerformanceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserManagementTestPage.testVerifyHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_OrangeSystem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sgic.automation.Testes.AdminTest.*" />
+          <option name="PATTERN" value="com.sgic.automation.Testes.PerformanceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes.AdminTest" />
-      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.AdminTest.UserManagementTestPage" />
-      <option name="METHOD_NAME" value="testVerifyHomePage" />
+      <option name="PACKAGE_NAME" value="com.sgic.automation.Testes.PerformanceTest" />
+      <option name="MAIN_CLASS_NAME" value="com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest" />
+      <option name="METHOD_NAME" value="SmokeSearchKpisTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -385,10 +486,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.UserManagementTestPage.testAddAdminPage" />
-        <item itemvalue="TestNG.UserManagementTestPage.testVerifyHomePage" />
-        <item itemvalue="TestNG.AdminTestPage.testVerifyLogin1" />
-        <item itemvalue="TestNG.AdminTestPage.testVerifyHomePage" />
+        <item itemvalue="TestNG.KPIsSearchPageWithJobTitleTest" />
+        <item itemvalue="TestNG.KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" />
+        <item itemvalue="TestNG.KPIsAddTest" />
+        <item itemvalue="TestNG.KPIsAddTest.verifyKPIsTest2" />
+        <item itemvalue="TestNG.KPIsAddTest.SmokeKPIsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -397,181 +499,138 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8ff5491a-9bf0-45fc-a07b-0d485cd78cc9" name="Default Changelist" comment="" />
-      <created>1564380084895</created>
+      <changelist id="09694695-583d-4cf5-8888-8d4a8292cbd4" name="Default Changelist" comment="" />
+      <created>1564408590519</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1564380084895</updated>
+      <updated>1564408590519</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Admin_Test_testVerifyHomePage - 2019.07.29 at 14h 07m 27s.xml">
-      <configuration name="Admin_Test.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest_SmokeSearchKpisTest - 2019.07.30 at 16h 29m 11s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Admin_Test_testVerifyLogin1 - 2019.07.29 at 14h 07m 52s.xml">
-      <configuration name="Admin_Test.testVerifyLogin1" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest_SmokeSearchKpisTest - 2019.07.30 at 16h 34m 33s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Admin_Test_testVerifyHomePage - 2019.07.29 at 14h 16m 19s.xml">
-      <configuration name="Admin_Test.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest_SmokeSearchKpisTest - 2019.07.30 at 16h 42m 34s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Admin_Test_testVerifyLogin1 - 2019.07.29 at 14h 18m 56s.xml">
-      <configuration name="Admin_Test.testVerifyLogin1" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest_SmokeSearchKpisTest - 2019.07.30 at 16h 46m 20s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="UserManagementTestPage_testVerifyHomePage - 2019.07.29 at 16h 11m 09s.xml">
-      <configuration name="UserManagementTestPage.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest - 2019.07.30 at 16h 47m 59s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="UserManagementTestPage_testVerifyHomePage - 2019.07.29 at 16h 13m 24s.xml">
-      <configuration name="UserManagementTestPage.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest_SmokeSearchKpisTest - 2019.07.30 at 16h 52m 20s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="UserManagementTestPage_testVerifyHomePage - 2019.07.29 at 16h 13m 38s.xml">
-      <configuration name="UserManagementTestPage.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest - 2019.07.30 at 16h 56m 05s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="UserManagementTestPage_testVerifyHomePage - 2019.07.29 at 16h 15m 17s.xml">
-      <configuration name="UserManagementTestPage.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsAddTest - 2019.07.30 at 16h 58m 49s.xml">
+      <configuration name="KPIsAddTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="UserManagementTestPage_testVerifyHomePage - 2019.07.29 at 16h 20m 10s.xml">
-      <configuration name="UserManagementTestPage.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest_SmokeSearchKpisTest - 2019.07.30 at 16h 59m 54s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="UserManagementTestPage_testVerifyHomePage - 2019.07.29 at 16h 21m 47s.xml">
-      <configuration name="UserManagementTestPage.testVerifyHomePage" configurationId="TestNG" />
+    <history-entry file="KPIsSearchPageWithJobTitleTest - 2019.07.30 at 17h 08m 15s.xml">
+      <configuration name="KPIsSearchPageWithJobTitleTest" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.19033675" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.328594" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.328594" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39968404" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5531915" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19033675" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.328594" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.328594" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39968404" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5531915" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/page.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/asserts/Assertion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="194">
+          <caret line="107" column="14" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/fileUpload/some-file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="72" selection-start-line="11" selection-start-column="72" selection-end-line="11" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Performance/AddKPIpage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Admin/juh.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Performance/PerformancePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Performance/Add.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Admin/d.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Performance/b.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Performance/g.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Performance/n.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Performance.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/Admin/g.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AD.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="544">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTestPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/AdminTestPage.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/testplans/REGRESSION.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -580,113 +639,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/test.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3-sources.jar!/org/testng/annotations/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/TestData/UserDetailsDataProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#925#926#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="194">
+          <caret line="93" column="16" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/PageBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="62" column="79" lean-forward="true" selection-start-line="62" selection-start-column="79" selection-end-line="62" selection-end-column="79" />
+        <state relative-caret-position="34">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/TestData/UserDetailsDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminAddPage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0-sources.jar!/org/openqa/selenium/WebElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="46" column="71" lean-forward="true" selection-start-line="46" selection-start-column="71" selection-end-line="46" selection-end-column="71" />
+        <state relative-caret-position="670">
+          <caret line="77" selection-start-line="66" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#895#896#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#1010#1011#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1167#1168#0" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1383#1384#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
-            <element signature="e#1470#1471#0" expanded="true" />
-            <element signature="e#1354#1355#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#2037#2038#0" expanded="true" />
-            <element signature="e#2087#2088#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/AdminPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#915#916#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
-            <element signature="e#1169#1170#0" expanded="true" />
-            <element signature="e#1034#1035#0" expanded="true" />
-            <element signature="e#1060#1061#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1232#1233#0" expanded="true" />
-            <element signature="e#1287#1288#0" expanded="true" />
-            <element signature="e#1346#1347#0" expanded="true" />
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1557#1558#0" expanded="true" />
-            <element signature="e#1595#1596#0" expanded="true" />
-            <element signature="e#1650#1651#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/AdminTest/UserManagementTestPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="186">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsSearchPageWithJobTitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/PerformanceMenuPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#966#967#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1294#1295#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1482#1483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="75" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="75" />
+          <folding>
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sgic/automation/Pages/KPIsAddPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#1427#1428#0" expanded="true" />
+            <element signature="e#1492#1493#0" expanded="true" />
+            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Utils/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/Logintest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsSearchPageWithJobTitleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/sgic/automation/Testes/PerformanceTest/KPIsAddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="57" column="31" lean-forward="true" selection-start-line="57" selection-start-column="31" selection-end-line="57" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

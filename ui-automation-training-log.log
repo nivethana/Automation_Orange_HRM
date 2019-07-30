@@ -1,0 +1,423 @@
+2019-07-30 09:53:56 INFO  TestBase:27 - Initiate Browser
+2019-07-30 09:54:07 INFO  TestBase:33 - Browser Initiated
+2019-07-30 09:54:07 INFO  TestBase:43 - Test name: LoginSmokeTest
+2019-07-30 09:54:13 INFO  TestBase:55 - Executed test case name:LoginSmokeTest Execution Results: [TestResult name=LoginSmokeTest status=SUCCESS method=Logintest.LoginSmokeTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 09:54:13 INFO  TestBase:48 - Closing Browser
+2019-07-30 09:54:14 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:11:24 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:11:36 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:11:36 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:11:36 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=FAILURE method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 10:11:36 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:11:38 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:11:38 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:12:01 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:12:01 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:12:05 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=FAILURE method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 10:12:05 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:12:06 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:12:06 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:12:24 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:12:24 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:12:27 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=FAILURE method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 10:12:27 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:12:28 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:12:28 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:12:49 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:12:49 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:12:53 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=FAILURE method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 10:12:53 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:12:54 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:12:54 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:13:04 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:13:04 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:13:06 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=FAILURE method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 10:13:06 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:13:07 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:14:58 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:15:07 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:15:07 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:15:08 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=FAILURE method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 10:15:08 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:15:10 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:15:10 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:15:20 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:15:20 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:15:22 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=FAILURE method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@72b6cbcc] output={null}]
+2019-07-30 10:15:22 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:15:23 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:15:23 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:29:26 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:29:56 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:29:56 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:29:57 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=SUCCESS method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@3b084709] output={null}]
+2019-07-30 10:29:57 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:29:58 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:29:58 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:30:23 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:30:23 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:30:24 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=SUCCESS method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@3b084709] output={null}]
+2019-07-30 10:30:24 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:30:26 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:30:26 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:30:37 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:30:37 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:30:39 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=SUCCESS method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@3b084709] output={null}]
+2019-07-30 10:30:39 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:30:40 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:30:40 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:30:49 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:30:49 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:30:50 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=SUCCESS method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@3b084709] output={null}]
+2019-07-30 10:30:50 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:30:51 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:30:51 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:31:00 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:31:00 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:31:01 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=SUCCESS method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@3b084709] output={null}]
+2019-07-30 10:31:01 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:31:03 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:31:03 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:31:12 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:31:12 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:31:12 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=SUCCESS method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@3b084709] output={null}]
+2019-07-30 10:31:12 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:31:13 INFO  TestBase:50 - Browser Closed
+2019-07-30 10:31:13 INFO  TestBase:27 - Initiate Browser
+2019-07-30 10:31:23 INFO  TestBase:33 - Browser Initiated
+2019-07-30 10:31:23 INFO  TestBase:43 - Test name: LoginSuperTest
+2019-07-30 10:31:24 INFO  TestBase:55 - Executed test case name:LoginSuperTest Execution Results: [TestResult name=LoginSuperTest status=SUCCESS method=Logintest.LoginSuperTest(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.Logintest@3b084709] output={null}]
+2019-07-30 10:31:24 INFO  TestBase:48 - Closing Browser
+2019-07-30 10:31:25 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:08:50 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:09:01 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:09:02 INFO  TestBase:43 - Test name: SmokeKPIsTest
+2019-07-30 12:09:02 INFO  TestBase:55 - Executed test case name:SmokeKPIsTest Execution Results: [TestResult name=SmokeKPIsTest status=FAILURE method=KPIsAddTest.SmokeKPIsTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:09:02 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:09:03 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:11:01 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:11:11 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:11:11 INFO  TestBase:43 - Test name: SmokeKPIsTest
+2019-07-30 12:11:12 INFO  TestBase:55 - Executed test case name:SmokeKPIsTest Execution Results: [TestResult name=SmokeKPIsTest status=FAILURE method=KPIsAddTest.SmokeKPIsTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:11:12 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:11:14 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:15:38 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:15:48 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:15:48 INFO  TestBase:43 - Test name: SmokeKPIsTest
+2019-07-30 12:15:53 INFO  TestBase:55 - Executed test case name:SmokeKPIsTest Execution Results: [TestResult name=SmokeKPIsTest status=SUCCESS method=KPIsAddTest.SmokeKPIsTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@63e2203c] output={null}]
+2019-07-30 12:15:53 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:15:54 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:18:42 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:18:52 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:18:52 INFO  TestBase:43 - Test name: verifyKPIsTest
+2019-07-30 12:18:59 INFO  TestBase:55 - Executed test case name:verifyKPIsTest Execution Results: [TestResult name=verifyKPIsTest status=SUCCESS method=KPIsAddTest.verifyKPIsTest()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:18:59 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:19:00 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:22:03 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:22:13 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:22:13 INFO  TestBase:43 - Test name: verifyKPIsTest
+2019-07-30 12:22:20 INFO  TestBase:55 - Executed test case name:verifyKPIsTest Execution Results: [TestResult name=verifyKPIsTest status=FAILURE method=KPIsAddTest.verifyKPIsTest()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:22:20 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:22:21 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:23:46 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:23:56 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:23:56 INFO  TestBase:43 - Test name: SmokeKPIsTest
+2019-07-30 12:24:03 INFO  TestBase:55 - Executed test case name:SmokeKPIsTest Execution Results: [TestResult name=SmokeKPIsTest status=SUCCESS method=KPIsAddTest.SmokeKPIsTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:24:03 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:24:04 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:24:31 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:24:40 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:24:40 INFO  TestBase:43 - Test name: verifyKPIsTest
+2019-07-30 12:24:47 INFO  TestBase:55 - Executed test case name:verifyKPIsTest Execution Results: [TestResult name=verifyKPIsTest status=FAILURE method=KPIsAddTest.verifyKPIsTest()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:24:47 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:24:49 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:40:41 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:40:51 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:40:51 INFO  TestBase:43 - Test name: verifyKPIsTest
+2019-07-30 12:40:58 INFO  TestBase:55 - Executed test case name:verifyKPIsTest Execution Results: [TestResult name=verifyKPIsTest status=SUCCESS method=KPIsAddTest.verifyKPIsTest()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:40:58 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:40:59 INFO  TestBase:50 - Browser Closed
+2019-07-30 12:41:17 INFO  TestBase:27 - Initiate Browser
+2019-07-30 12:41:26 INFO  TestBase:33 - Browser Initiated
+2019-07-30 12:41:26 INFO  TestBase:43 - Test name: verifyKPIsTest
+2019-07-30 12:41:35 INFO  TestBase:55 - Executed test case name:verifyKPIsTest Execution Results: [TestResult name=verifyKPIsTest status=SUCCESS method=KPIsAddTest.verifyKPIsTest()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 12:41:35 INFO  TestBase:48 - Closing Browser
+2019-07-30 12:41:36 INFO  TestBase:50 - Browser Closed
+2019-07-30 13:18:51 INFO  TestBase:27 - Initiate Browser
+2019-07-30 13:19:01 INFO  TestBase:33 - Browser Initiated
+2019-07-30 13:19:01 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 13:19:12 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=SUCCESS method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 13:19:12 INFO  TestBase:48 - Closing Browser
+2019-07-30 13:19:14 INFO  TestBase:50 - Browser Closed
+2019-07-30 13:20:01 INFO  TestBase:27 - Initiate Browser
+2019-07-30 13:20:11 INFO  TestBase:33 - Browser Initiated
+2019-07-30 13:20:11 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 13:20:19 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 13:20:19 INFO  TestBase:48 - Closing Browser
+2019-07-30 13:20:20 INFO  TestBase:50 - Browser Closed
+2019-07-30 13:22:47 INFO  TestBase:27 - Initiate Browser
+2019-07-30 13:22:58 INFO  TestBase:33 - Browser Initiated
+2019-07-30 13:22:58 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 13:23:10 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 13:23:10 INFO  TestBase:48 - Closing Browser
+2019-07-30 13:23:11 INFO  TestBase:50 - Browser Closed
+2019-07-30 13:24:29 INFO  TestBase:27 - Initiate Browser
+2019-07-30 13:24:41 INFO  TestBase:33 - Browser Initiated
+2019-07-30 13:24:41 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 13:24:53 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 13:24:53 INFO  TestBase:48 - Closing Browser
+2019-07-30 13:24:54 INFO  TestBase:50 - Browser Closed
+2019-07-30 13:25:32 INFO  TestBase:27 - Initiate Browser
+2019-07-30 13:25:46 INFO  TestBase:33 - Browser Initiated
+2019-07-30 13:25:46 INFO  TestBase:43 - Test name: verifyKPIsTest
+2019-07-30 13:26:01 INFO  TestBase:55 - Executed test case name:verifyKPIsTest Execution Results: [TestResult name=verifyKPIsTest status=SUCCESS method=KPIsAddTest.verifyKPIsTest()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 13:26:01 INFO  TestBase:48 - Closing Browser
+2019-07-30 13:26:03 INFO  TestBase:50 - Browser Closed
+2019-07-30 13:27:45 INFO  TestBase:27 - Initiate Browser
+2019-07-30 13:27:54 INFO  TestBase:33 - Browser Initiated
+2019-07-30 13:27:54 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 13:28:03 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 13:28:03 INFO  TestBase:48 - Closing Browser
+2019-07-30 13:28:04 INFO  TestBase:50 - Browser Closed
+2019-07-30 13:31:39 INFO  TestBase:27 - Initiate Browser
+2019-07-30 13:32:00 INFO  TestBase:33 - Browser Initiated
+2019-07-30 13:32:00 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 13:32:08 INFO  KPIsAddPage:22 - KPI Click Add Button
+2019-07-30 13:32:09 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 13:32:09 INFO  TestBase:48 - Closing Browser
+2019-07-30 13:32:10 INFO  TestBase:50 - Browser Closed
+2019-07-30 14:26:43 INFO  TestBase:27 - Initiate Browser
+2019-07-30 14:26:55 INFO  TestBase:33 - Browser Initiated
+2019-07-30 14:26:55 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 14:27:04 INFO  KPIsAddPage:22 - KPI Click Add Button
+2019-07-30 14:27:05 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 14:27:05 INFO  TestBase:48 - Closing Browser
+2019-07-30 14:27:07 INFO  TestBase:50 - Browser Closed
+2019-07-30 14:27:25 INFO  TestBase:27 - Initiate Browser
+2019-07-30 14:27:35 INFO  TestBase:33 - Browser Initiated
+2019-07-30 14:27:35 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 14:27:42 INFO  KPIsAddPage:22 - KPI Click Add Button
+2019-07-30 14:27:44 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 14:27:44 INFO  TestBase:48 - Closing Browser
+2019-07-30 14:27:45 INFO  TestBase:50 - Browser Closed
+2019-07-30 14:27:59 INFO  TestBase:27 - Initiate Browser
+2019-07-30 14:28:10 INFO  TestBase:33 - Browser Initiated
+2019-07-30 14:28:10 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 14:28:16 INFO  KPIsAddPage:22 - KPI Click Add Button
+2019-07-30 14:28:18 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 14:28:18 INFO  TestBase:48 - Closing Browser
+2019-07-30 14:28:19 INFO  TestBase:50 - Browser Closed
+2019-07-30 14:30:05 INFO  TestBase:27 - Initiate Browser
+2019-07-30 14:30:16 INFO  TestBase:33 - Browser Initiated
+2019-07-30 14:30:16 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 14:30:24 INFO  KPIsAddPage:22 - KPI Click Add Button
+2019-07-30 14:30:29 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=SUCCESS method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 14:30:29 INFO  TestBase:48 - Closing Browser
+2019-07-30 14:30:30 INFO  TestBase:50 - Browser Closed
+2019-07-30 14:42:13 INFO  TestBase:27 - Initiate Browser
+2019-07-30 14:42:22 INFO  TestBase:33 - Browser Initiated
+2019-07-30 14:42:22 INFO  TestBase:43 - Test name: SmokeKPIsTest
+2019-07-30 14:42:22 INFO  KPIsAddTest:23 - set the user name
+2019-07-30 14:42:22 INFO  KPIsAddTest:25 - set the password
+2019-07-30 14:42:24 INFO  KPIsAddTest:27 - click the submit button
+2019-07-30 14:42:27 INFO  KPIsAddTest:29 - markplace is displayed
+2019-07-30 14:42:28 INFO  TestBase:55 - Executed test case name:SmokeKPIsTest Execution Results: [TestResult name=SmokeKPIsTest status=SUCCESS method=KPIsAddTest.SmokeKPIsTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 14:42:28 INFO  TestBase:48 - Closing Browser
+2019-07-30 14:42:30 INFO  TestBase:50 - Browser Closed
+2019-07-30 14:58:51 INFO  TestBase:27 - Initiate Browser
+2019-07-30 14:59:00 INFO  TestBase:33 - Browser Initiated
+2019-07-30 14:59:00 INFO  TestBase:43 - Test name: verifyKPIsTest2
+2019-07-30 14:59:00 INFO  KPIsAddTest:62 - login page is displayed
+2019-07-30 14:59:00 INFO  KPIsAddTest:64 - set the user
+2019-07-30 14:59:00 INFO  KPIsAddTest:66 - set the password
+2019-07-30 14:59:02 INFO  KPIsAddTest:68 - click the submit
+2019-07-30 14:59:02 INFO  KPIsAddTest:70 - display the MarketplaceDisplay
+2019-07-30 14:59:02 INFO  KPIsAddTest:72 - Homepage is Displayed
+2019-07-30 14:59:02 INFO  KPIsAddTest:74 - click the performance button
+2019-07-30 14:59:04 INFO  KPIsAddTest:76 - performance is displayed
+2019-07-30 14:59:04 INFO  KPIsAddTest:78 - click the configure
+2019-07-30 14:59:06 INFO  KPIsAddTest:80 - click the ClickKPIsBtn
+2019-07-30 14:59:06 INFO  KPIsAddPage:22 - KPI Click Add Button
+2019-07-30 14:59:07 INFO  KPIsAddTest:82 - click add button
+2019-07-30 14:59:07 INFO  KPIsAddTest:84 - addpage is displayed
+2019-07-30 14:59:07 INFO  KPIsAddTest:86 - set the JobTitle
+2019-07-30 14:59:07 INFO  KPIsAddTest:88 - set the keyperformanceIndictor
+2019-07-30 14:59:07 INFO  KPIsAddTest:90 - setminimum rating
+2019-07-30 14:59:07 INFO  KPIsAddTest:92 - setMaximumRating
+2019-07-30 14:59:07 INFO  KPIsAddTest:94 - click the makeScale
+2019-07-30 14:59:08 INFO  KPIsAddTest:96 - click the save btn
+2019-07-30 14:59:08 INFO  KPIsAddTest:98 - Kpi search is displayed
+2019-07-30 14:59:08 INFO  TestBase:55 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=SUCCESS method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@6737fd8f] output={null}]
+2019-07-30 14:59:08 INFO  TestBase:48 - Closing Browser
+2019-07-30 14:59:09 INFO  TestBase:50 - Browser Closed
+2019-07-30 15:51:06 INFO  TestBase:27 - Initiate Browser
+2019-07-30 15:51:35 INFO  TestBase:33 - Browser Initiated
+2019-07-30 15:51:35 INFO  TestBase:43 - Test name: SmokeSearchKpisTest
+2019-07-30 15:51:36 INFO  TestBase:55 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=FAILURE method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 15:51:36 INFO  TestBase:48 - Closing Browser
+2019-07-30 15:51:37 INFO  TestBase:50 - Browser Closed
+2019-07-30 15:52:45 INFO  TestBase:27 - Initiate Browser
+2019-07-30 15:52:55 INFO  TestBase:33 - Browser Initiated
+2019-07-30 15:52:55 INFO  TestBase:43 - Test name: SmokeSearchKpisTest
+2019-07-30 15:52:57 INFO  TestBase:55 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=FAILURE method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 15:52:57 INFO  TestBase:48 - Closing Browser
+2019-07-30 15:52:58 INFO  TestBase:50 - Browser Closed
+2019-07-30 16:28:55 INFO  TestBase:27 - Initiate Browser
+2019-07-30 16:29:07 INFO  TestBase:33 - Browser Initiated
+2019-07-30 16:29:07 INFO  TestBase:43 - Test name: SmokeSearchKpisTest
+2019-07-30 16:29:10 INFO  TestBase:55 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=FAILURE method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 16:29:10 INFO  TestBase:48 - Closing Browser
+2019-07-30 16:29:11 INFO  TestBase:50 - Browser Closed
+2019-07-30 16:34:15 INFO  TestBase:27 - Initiate Browser
+2019-07-30 16:34:26 INFO  TestBase:33 - Browser Initiated
+2019-07-30 16:34:26 INFO  TestBase:43 - Test name: SmokeSearchKpisTest
+2019-07-30 16:34:26 INFO  KPIsSearchPageWithJobTitleTest:18 - login page is displyed
+2019-07-30 16:34:27 INFO  KPIsSearchPageWithJobTitleTest:20 - set the user name
+2019-07-30 16:34:27 INFO  KPIsSearchPageWithJobTitleTest:22 - set the password
+2019-07-30 16:34:29 INFO  KPIsSearchPageWithJobTitleTest:24 - click the submit button
+2019-07-30 16:34:29 INFO  KPIsSearchPageWithJobTitleTest:26 - displayed markplace
+2019-07-30 16:34:31 INFO  TestBase:55 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=FAILURE method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 16:34:31 INFO  TestBase:48 - Closing Browser
+2019-07-30 16:34:32 INFO  TestBase:50 - Browser Closed
+2019-07-30 16:42:18 INFO  TestBase:27 - Initiate Browser
+2019-07-30 16:42:28 INFO  TestBase:33 - Browser Initiated
+2019-07-30 16:42:28 INFO  TestBase:43 - Test name: SmokeSearchKpisTest
+2019-07-30 16:42:28 INFO  KPIsSearchPageWithJobTitleTest:19 - login page is displyed
+2019-07-30 16:42:28 INFO  KPIsSearchPageWithJobTitleTest:21 - set the user name
+2019-07-30 16:42:28 INFO  KPIsSearchPageWithJobTitleTest:23 - set the password
+2019-07-30 16:42:32 INFO  KPIsSearchPageWithJobTitleTest:25 - click the submit button
+2019-07-30 16:42:32 INFO  KPIsSearchPageWithJobTitleTest:27 - displayed markplace
+2019-07-30 16:42:32 INFO  TestBase:55 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=FAILURE method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 16:42:32 INFO  TestBase:48 - Closing Browser
+2019-07-30 16:42:33 INFO  TestBase:50 - Browser Closed
+2019-07-30 16:46:03 INFO  TestBase:27 - Initiate Browser
+2019-07-30 16:46:14 INFO  TestBase:33 - Browser Initiated
+2019-07-30 16:46:14 INFO  TestBase:43 - Test name: SmokeSearchKpisTest
+2019-07-30 16:46:14 INFO  KPIsSearchPageWithJobTitleTest:19 - login page is displyed
+2019-07-30 16:46:14 INFO  KPIsSearchPageWithJobTitleTest:21 - set the user name
+2019-07-30 16:46:14 INFO  KPIsSearchPageWithJobTitleTest:23 - set the password
+2019-07-30 16:46:16 INFO  KPIsSearchPageWithJobTitleTest:25 - click the submit button
+2019-07-30 16:46:16 INFO  KPIsSearchPageWithJobTitleTest:27 - displayed markplace
+2019-07-30 16:46:16 INFO  KPIsSearchPageWithJobTitleTest:29 - click the performance button
+2019-07-30 16:46:18 INFO  TestBase:55 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=FAILURE method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 16:46:18 INFO  TestBase:48 - Closing Browser
+2019-07-30 16:46:19 INFO  TestBase:50 - Browser Closed
+2019-07-30 16:47:41 INFO  TestBase:27 - Initiate Browser
+2019-07-30 16:47:51 INFO  TestBase:33 - Browser Initiated
+2019-07-30 16:47:51 INFO  TestBase:43 - Test name: SmokeSearchKpisTest
+2019-07-30 16:47:51 INFO  KPIsSearchPageWithJobTitleTest:19 - login page is displyed
+2019-07-30 16:47:51 INFO  KPIsSearchPageWithJobTitleTest:21 - set the user name
+2019-07-30 16:47:51 INFO  KPIsSearchPageWithJobTitleTest:23 - set the password
+2019-07-30 16:47:55 INFO  KPIsSearchPageWithJobTitleTest:25 - click the submit button
+2019-07-30 16:47:55 INFO  KPIsSearchPageWithJobTitleTest:27 - displayed markplace
+2019-07-30 16:47:55 INFO  KPIsSearchPageWithJobTitleTest:29 - click the performance button
+2019-07-30 16:47:56 INFO  KPIsSearchPageWithJobTitleTest:31 - click the cofigure
+2019-07-30 16:47:57 INFO  KPIsSearchPageWithJobTitleTest:33 - click the Kpis
+2019-07-30 16:47:57 INFO  KPIsSearchPageWithJobTitleTest:35 - get the option
+2019-07-30 16:47:57 INFO  KPIsSearchPageWithJobTitleTest:37 - set the dropdown
+2019-07-30 16:47:58 INFO  KPIsSearchPageWithJobTitleTest:39 - click the search button
+2019-07-30 16:47:58 INFO  KPIsSearchPageWithJobTitleTest:41 - get the message
+2019-07-30 16:47:58 INFO  TestBase:55 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=SUCCESS method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@22a67b4] output={null}]
+2019-07-30 16:47:58 INFO  TestBase:48 - Closing Browser
+2019-07-30 16:47:59 INFO  TestBase:50 - Browser Closed
+2019-07-30 16:52:02 INFO  TestBase:28 - Initiate Browser
+2019-07-30 16:52:11 INFO  TestBase:34 - Browser Initiated
+2019-07-30 16:52:11 INFO  TestBase:37 - Orange Hrm Login Test Username
+2019-07-30 16:52:11 INFO  TestBase:39 - Orange Hrm Login Test Password
+2019-07-30 16:52:13 INFO  TestBase:41 - Orange Hrm Login Button Click
+2019-07-30 16:52:13 INFO  TestBase:51 - Test name: SmokeSearchKpisTest
+2019-07-30 16:52:13 INFO  KPIsSearchPageWithJobTitleTest:29 - click the performance button
+2019-07-30 16:52:14 INFO  KPIsSearchPageWithJobTitleTest:31 - click the cofigure
+2019-07-30 16:52:18 INFO  KPIsSearchPageWithJobTitleTest:33 - click the Kpis
+2019-07-30 16:52:18 INFO  KPIsSearchPageWithJobTitleTest:35 - get the option
+2019-07-30 16:52:18 INFO  KPIsSearchPageWithJobTitleTest:37 - set the dropdown
+2019-07-30 16:52:18 INFO  KPIsSearchPageWithJobTitleTest:39 - click the search button
+2019-07-30 16:52:18 INFO  KPIsSearchPageWithJobTitleTest:41 - get the message
+2019-07-30 16:52:18 INFO  TestBase:63 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=SUCCESS method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 16:52:18 INFO  TestBase:56 - Closing Browser
+2019-07-30 16:52:20 INFO  TestBase:58 - Browser Closed
+2019-07-30 16:55:33 INFO  TestBase:28 - Initiate Browser
+2019-07-30 16:55:42 INFO  TestBase:34 - Browser Initiated
+2019-07-30 16:55:42 INFO  TestBase:37 - Orange Hrm Login Test Username
+2019-07-30 16:55:43 INFO  TestBase:39 - Orange Hrm Login Test Password
+2019-07-30 16:55:44 INFO  TestBase:41 - Orange Hrm Login Button Click
+2019-07-30 16:55:44 INFO  TestBase:51 - Test name: SmokeSearchKpisTest
+2019-07-30 16:55:44 INFO  KPIsSearchPageWithJobTitleTest:27 - click the performance button
+2019-07-30 16:55:45 INFO  KPIsSearchPageWithJobTitleTest:29 - click the cofigure
+2019-07-30 16:55:48 INFO  KPIsSearchPageWithJobTitleTest:31 - click the Kpis
+2019-07-30 16:55:48 INFO  KPIsSearchPageWithJobTitleTest:33 - get the option
+2019-07-30 16:55:48 INFO  KPIsSearchPageWithJobTitleTest:35 - set the dropdown
+2019-07-30 16:55:48 INFO  KPIsSearchPageWithJobTitleTest:37 - click the search button
+2019-07-30 16:55:48 INFO  KPIsSearchPageWithJobTitleTest:39 - get the message
+2019-07-30 16:55:48 INFO  TestBase:63 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=SUCCESS method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@3b084709] output={null}]
+2019-07-30 16:55:48 INFO  TestBase:56 - Closing Browser
+2019-07-30 16:55:50 INFO  TestBase:58 - Browser Closed
+2019-07-30 16:55:50 INFO  TestBase:28 - Initiate Browser
+2019-07-30 16:55:57 INFO  TestBase:34 - Browser Initiated
+2019-07-30 16:55:57 INFO  TestBase:37 - Orange Hrm Login Test Username
+2019-07-30 16:55:57 INFO  TestBase:39 - Orange Hrm Login Test Password
+2019-07-30 16:55:59 INFO  TestBase:41 - Orange Hrm Login Button Click
+2019-07-30 16:55:59 INFO  TestBase:51 - Test name: SmokeSearchKpisT
+2019-07-30 16:56:02 INFO  KPIsAddPage:22 - KPI Click Add Button
+2019-07-30 16:56:03 INFO  TestBase:63 - Executed test case name:SmokeSearchKpisT Execution Results: [TestResult name=SmokeSearchKpisT status=SUCCESS method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisT()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@3b084709] output={null}]
+2019-07-30 16:56:03 INFO  TestBase:56 - Closing Browser
+2019-07-30 16:56:04 INFO  TestBase:58 - Browser Closed
+2019-07-30 16:57:35 INFO  TestBase:28 - Initiate Browser
+2019-07-30 16:57:49 INFO  TestBase:34 - Browser Initiated
+2019-07-30 16:57:49 INFO  TestBase:37 - Orange Hrm Login Test Username
+2019-07-30 16:57:49 INFO  TestBase:39 - Orange Hrm Login Test Password
+2019-07-30 16:58:03 INFO  TestBase:41 - Orange Hrm Login Button Click
+2019-07-30 16:58:03 INFO  TestBase:51 - Test name: SmokeKPIsTest
+2019-07-30 16:58:03 INFO  TestBase:63 - Executed test case name:SmokeKPIsTest Execution Results: [TestResult name=SmokeKPIsTest status=FAILURE method=KPIsAddTest.SmokeKPIsTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@3b084709] output={null}]
+2019-07-30 16:58:03 INFO  TestBase:56 - Closing Browser
+2019-07-30 16:58:04 INFO  TestBase:58 - Browser Closed
+2019-07-30 16:58:04 INFO  TestBase:28 - Initiate Browser
+2019-07-30 16:58:24 INFO  TestBase:34 - Browser Initiated
+2019-07-30 16:58:24 INFO  TestBase:37 - Orange Hrm Login Test Username
+2019-07-30 16:58:24 INFO  TestBase:39 - Orange Hrm Login Test Password
+2019-07-30 16:58:36 INFO  TestBase:41 - Orange Hrm Login Button Click
+2019-07-30 16:58:36 INFO  TestBase:51 - Test name: verifyKPIsTest
+2019-07-30 16:58:36 INFO  TestBase:63 - Executed test case name:verifyKPIsTest Execution Results: [TestResult name=verifyKPIsTest status=FAILURE method=KPIsAddTest.verifyKPIsTest()[pri:2, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@3b084709] output={null}]
+2019-07-30 16:58:36 INFO  TestBase:56 - Closing Browser
+2019-07-30 16:58:37 INFO  TestBase:58 - Browser Closed
+2019-07-30 16:58:37 INFO  TestBase:28 - Initiate Browser
+2019-07-30 16:58:45 INFO  TestBase:34 - Browser Initiated
+2019-07-30 16:58:45 INFO  TestBase:37 - Orange Hrm Login Test Username
+2019-07-30 16:58:45 INFO  TestBase:39 - Orange Hrm Login Test Password
+2019-07-30 16:58:47 INFO  TestBase:41 - Orange Hrm Login Button Click
+2019-07-30 16:58:47 INFO  TestBase:51 - Test name: verifyKPIsTest2
+2019-07-30 16:58:47 INFO  TestBase:63 - Executed test case name:verifyKPIsTest2 Execution Results: [TestResult name=verifyKPIsTest2 status=FAILURE method=KPIsAddTest.verifyKPIsTest2()[pri:3, instance:com.sgic.automation.Testes.PerformanceTest.KPIsAddTest@3b084709] output={null}]
+2019-07-30 16:58:47 INFO  TestBase:56 - Closing Browser
+2019-07-30 16:58:48 INFO  TestBase:58 - Browser Closed
+2019-07-30 16:59:37 INFO  TestBase:28 - Initiate Browser
+2019-07-30 16:59:47 INFO  TestBase:34 - Browser Initiated
+2019-07-30 16:59:47 INFO  TestBase:37 - Orange Hrm Login Test Username
+2019-07-30 16:59:47 INFO  TestBase:39 - Orange Hrm Login Test Password
+2019-07-30 16:59:49 INFO  TestBase:41 - Orange Hrm Login Button Click
+2019-07-30 16:59:49 INFO  TestBase:51 - Test name: SmokeSearchKpisTest
+2019-07-30 16:59:51 INFO  KPIsSearchPageWithJobTitleTest:20 - click the performance button
+2019-07-30 16:59:51 INFO  KPIsSearchPageWithJobTitleTest:22 - click the cofigure
+2019-07-30 16:59:52 INFO  KPIsSearchPageWithJobTitleTest:24 - click the Kpis
+2019-07-30 16:59:52 INFO  KPIsSearchPageWithJobTitleTest:26 - get the option
+2019-07-30 16:59:52 INFO  KPIsSearchPageWithJobTitleTest:28 - set the dropdown
+2019-07-30 16:59:53 INFO  KPIsSearchPageWithJobTitleTest:30 - click the search button
+2019-07-30 16:59:53 INFO  KPIsSearchPageWithJobTitleTest:32 - get the message
+2019-07-30 16:59:53 INFO  TestBase:63 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=SUCCESS method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@6737fd8f] output={null}]
+2019-07-30 16:59:53 INFO  TestBase:56 - Closing Browser
+2019-07-30 16:59:54 INFO  TestBase:58 - Browser Closed
+2019-07-30 17:07:53 INFO  TestBase:25 - Initiate Browser
+2019-07-30 17:08:04 INFO  TestBase:31 - Browser Initiated
+2019-07-30 17:08:04 INFO  TestBase:35 - Orange Hrm Login Test Username
+2019-07-30 17:08:04 INFO  TestBase:37 - Orange Hrm Login Test Password
+2019-07-30 17:08:06 INFO  TestBase:39 - Orange Hrm Login Button Click
+2019-07-30 17:08:06 INFO  TestBase:49 - Test name: SmokeSearchKpisTest
+2019-07-30 17:08:09 INFO  KPIsSearchPageWithJobTitleTest:20 - click the performance button
+2019-07-30 17:08:10 INFO  KPIsSearchPageWithJobTitleTest:22 - click the cofigure
+2019-07-30 17:08:11 INFO  KPIsSearchPageWithJobTitleTest:24 - click the Kpis
+2019-07-30 17:08:11 INFO  KPIsSearchPageWithJobTitleTest:26 - get the option
+2019-07-30 17:08:11 INFO  KPIsSearchPageWithJobTitleTest:28 - set the dropdown
+2019-07-30 17:08:13 INFO  KPIsSearchPageWithJobTitleTest:30 - click the search button
+2019-07-30 17:08:13 INFO  KPIsSearchPageWithJobTitleTest:32 - get the message
+2019-07-30 17:08:13 INFO  TestBase:61 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=SUCCESS method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@3b084709] output={null}]
+2019-07-30 17:08:13 INFO  TestBase:54 - Closing Browser
+2019-07-30 17:08:14 INFO  TestBase:56 - Browser Closed

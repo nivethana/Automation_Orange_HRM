@@ -15,6 +15,8 @@ public class LoginPage extends PageBase {
     public static By btnLogin=By.id("btnLogin");
     public static By linkForgetPassword=By.xpath("//*[@href=\"/index.php/auth/requestPasswordResetCode\"]");
     public static By msgInvalid=By.id("spanMessage");
+    // login succes
+    public static By markplaceDidplay=By.id("MP_link");
 
 
     public static boolean isLoginPageDisplayed() {
@@ -35,7 +37,10 @@ public class LoginPage extends PageBase {
     public static boolean isAlertDisply(){
         return getDriver().findElement(msgInvalid).isDisplayed();
     }
-
+    // login success
+    public static boolean MarkplaceDisply(){
+        return getDriver().findElement(markplaceDidplay).isDisplayed();
+    }
     public static String getmassge(){
         return getDriver().findElement(msgInvalid).getText();
     }
