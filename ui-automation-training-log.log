@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2019-07-30 09:53:56 INFO  TestBase:27 - Initiate Browser
 2019-07-30 09:54:07 INFO  TestBase:33 - Browser Initiated
 2019-07-30 09:54:07 INFO  TestBase:43 - Test name: LoginSmokeTest
@@ -421,3 +422,274 @@
 2019-07-30 17:08:13 INFO  TestBase:61 - Executed test case name:SmokeSearchKpisTest Execution Results: [TestResult name=SmokeSearchKpisTest status=SUCCESS method=KPIsSearchPageWithJobTitleTest.SmokeSearchKpisTest()[pri:1, instance:com.sgic.automation.Testes.PerformanceTest.KPIsSearchPageWithJobTitleTest@3b084709] output={null}]
 2019-07-30 17:08:13 INFO  TestBase:54 - Closing Browser
 2019-07-30 17:08:14 INFO  TestBase:56 - Browser Closed
+=======
+2019-07-30 09:44:51 INFO  TestBase:25 - Initiate Browser
+2019-07-30 09:45:04 INFO  TestBase:31 - Browser Initiated
+2019-07-30 09:45:04 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 09:45:09 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 09:55:59 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@1d296da] output={null}]
+2019-07-30 09:55:59 INFO  TestBase:46 - Closing Browser
+2019-07-30 09:56:01 INFO  TestBase:48 - Browser Closed
+2019-07-30 09:56:13 INFO  TestBase:25 - Initiate Browser
+2019-07-30 09:56:21 INFO  TestBase:31 - Browser Initiated
+2019-07-30 09:56:21 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 09:56:26 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 09:56:46 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@1d296da] output={null}]
+2019-07-30 09:56:46 INFO  TestBase:46 - Closing Browser
+2019-07-30 09:56:46 INFO  TestBase:48 - Browser Closed
+2019-07-30 09:59:31 INFO  TestBase:25 - Initiate Browser
+2019-07-30 09:59:39 INFO  TestBase:31 - Browser Initiated
+2019-07-30 09:59:39 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 09:59:44 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 09:59:46 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@63e2203c] output={null}]
+2019-07-30 09:59:46 INFO  TestBase:46 - Closing Browser
+2019-07-30 09:59:47 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:05:48 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:05:56 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:05:56 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:06:01 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:06:03 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:06:03 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:06:04 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:07:53 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:08:01 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:08:01 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:08:06 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:09:57 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@1d296da] output={null}]
+2019-07-30 10:09:57 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:09:58 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:10:52 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:11:01 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:11:01 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:11:05 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:11:07 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:11:07 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:11:08 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:19:55 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:20:03 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:20:03 INFO  TestBase:41 - Test name: testVerifyAdminPage
+2019-07-30 10:20:08 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:20:08 INFO  TestBase:53 - Executed test case name:testVerifyAdminPage Execution Results: [TestResult name=testVerifyAdminPage status=SUCCESS method=UserManagementTestPage.testVerifyAdminPage()[pri:1, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:20:08 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:20:09 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:20:45 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:20:54 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:20:54 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:20:58 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:21:50 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@1d296da] output={null}]
+2019-07-30 10:21:50 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:21:51 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:22:18 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:22:26 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:22:26 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:22:30 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:22:32 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=SUCCESS method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:22:32 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:22:32 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:36:32 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:36:40 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:36:40 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:36:44 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:36:45 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:36:45 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:36:46 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:37:11 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:37:20 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:37:20 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:37:25 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:37:25 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:37:25 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:37:26 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:38:17 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:38:25 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:38:25 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:38:29 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:38:42 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:38:42 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:38:42 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:39:23 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:39:31 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:39:31 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:39:35 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:39:48 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@6737fd8f] output={null}]
+2019-07-30 10:39:48 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:39:49 INFO  TestBase:48 - Browser Closed
+2019-07-30 10:40:29 INFO  TestBase:25 - Initiate Browser
+2019-07-30 10:40:37 INFO  TestBase:31 - Browser Initiated
+2019-07-30 10:40:37 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 10:40:41 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 10:40:43 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=SUCCESS method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@63e2203c] output={null}]
+2019-07-30 10:40:43 INFO  TestBase:46 - Closing Browser
+2019-07-30 10:40:44 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:08:27 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:08:34 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:08:34 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:08:35 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=FAILURE method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:08:35 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:08:36 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:08:36 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:08:42 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:08:42 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:08:42 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=FAILURE method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:08:42 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:08:43 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:08:43 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:08:49 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:08:49 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:08:50 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=FAILURE method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:08:50 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:08:51 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:08:51 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:08:57 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:08:57 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:08:58 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=FAILURE method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:08:58 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:08:59 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:09:29 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:09:36 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:09:36 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:09:37 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=SUCCESS method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:09:37 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:09:39 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:09:39 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:09:46 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:09:46 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:09:46 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=SUCCESS method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:09:46 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:09:47 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:09:47 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:09:53 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:09:53 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:09:54 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=SUCCESS method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:09:54 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:09:55 INFO  TestBase:48 - Browser Closed
+2019-07-30 11:09:55 INFO  TestBase:25 - Initiate Browser
+2019-07-30 11:10:02 INFO  TestBase:31 - Browser Initiated
+2019-07-30 11:10:02 INFO  TestBase:41 - Test name: testVerifyLoginPage
+2019-07-30 11:10:03 INFO  TestBase:53 - Executed test case name:testVerifyLoginPage Execution Results: [TestResult name=testVerifyLoginPage status=SUCCESS method=LoginTestPage.testVerifyLoginPage(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.sgic.automation.Testes.AdminTest.LoginTestPage@72b6cbcc] output={null}]
+2019-07-30 11:10:03 INFO  TestBase:46 - Closing Browser
+2019-07-30 11:10:04 INFO  TestBase:48 - Browser Closed
+2019-07-30 12:12:12 INFO  TestBase:25 - Initiate Browser
+2019-07-30 12:12:20 INFO  TestBase:31 - Browser Initiated
+2019-07-30 12:12:20 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 12:12:24 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 12:12:26 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=FAILURE method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 12:12:26 INFO  TestBase:46 - Closing Browser
+2019-07-30 12:12:27 INFO  TestBase:48 - Browser Closed
+2019-07-30 12:12:27 INFO  TestBase:25 - Initiate Browser
+2019-07-30 12:12:34 INFO  TestBase:31 - Browser Initiated
+2019-07-30 12:12:34 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 12:12:39 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 12:12:40 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=FAILURE method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 12:12:40 INFO  TestBase:46 - Closing Browser
+2019-07-30 12:12:41 INFO  TestBase:48 - Browser Closed
+2019-07-30 13:44:31 INFO  TestBase:25 - Initiate Browser
+2019-07-30 13:44:41 INFO  TestBase:31 - Browser Initiated
+2019-07-30 13:44:41 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 13:44:47 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 13:44:47 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=FAILURE method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 13:44:47 INFO  TestBase:46 - Closing Browser
+2019-07-30 13:44:48 INFO  TestBase:48 - Browser Closed
+2019-07-30 13:47:06 INFO  TestBase:25 - Initiate Browser
+2019-07-30 13:47:14 INFO  TestBase:31 - Browser Initiated
+2019-07-30 13:47:14 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 13:47:20 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 13:47:22 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 13:47:22 INFO  TestBase:46 - Closing Browser
+2019-07-30 13:47:23 INFO  TestBase:48 - Browser Closed
+2019-07-30 13:47:45 INFO  TestBase:25 - Initiate Browser
+2019-07-30 13:47:54 INFO  TestBase:31 - Browser Initiated
+2019-07-30 13:47:54 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 13:48:00 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 13:48:02 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 13:48:02 INFO  TestBase:46 - Closing Browser
+2019-07-30 13:48:03 INFO  TestBase:48 - Browser Closed
+2019-07-30 13:48:19 INFO  TestBase:25 - Initiate Browser
+2019-07-30 13:48:28 INFO  TestBase:31 - Browser Initiated
+2019-07-30 13:48:28 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 13:48:34 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 13:48:36 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 13:48:36 INFO  TestBase:46 - Closing Browser
+2019-07-30 13:48:37 INFO  TestBase:48 - Browser Closed
+2019-07-30 13:49:00 INFO  TestBase:25 - Initiate Browser
+2019-07-30 13:49:09 INFO  TestBase:31 - Browser Initiated
+2019-07-30 13:49:09 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 13:49:14 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 13:49:17 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 13:49:17 INFO  TestBase:46 - Closing Browser
+2019-07-30 13:49:20 INFO  TestBase:48 - Browser Closed
+2019-07-30 13:49:43 INFO  TestBase:25 - Initiate Browser
+2019-07-30 13:49:52 INFO  TestBase:31 - Browser Initiated
+2019-07-30 13:49:52 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 13:49:58 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 13:50:01 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 13:50:01 INFO  TestBase:46 - Closing Browser
+2019-07-30 13:50:02 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:03:15 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:03:24 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:03:24 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 14:03:30 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:03:34 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 14:03:34 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:03:35 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:04:14 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:04:23 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:04:23 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 14:04:28 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:07:03 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@7c7a06ec] output={null}]
+2019-07-30 14:07:03 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:07:04 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:07:31 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:07:40 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:07:40 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 14:07:46 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:07:49 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=SUCCESS method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@1efed156] output={null}]
+2019-07-30 14:07:49 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:07:50 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:08:23 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:08:31 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:08:31 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 14:08:37 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:08:40 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 14:08:40 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:08:41 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:25:06 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:25:15 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:25:15 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 14:25:21 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:25:24 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 14:25:24 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:25:25 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:33:58 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:34:07 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:34:07 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 14:34:13 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:34:17 INFO  TestBase:53 - Executed test case name:testAddAdminPage Execution Results: [TestResult name=testAddAdminPage status=FAILURE method=UserManagementTestPage.testAddAdminPage()[pri:2, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 14:34:17 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:34:18 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:38:34 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:38:44 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:38:44 INFO  TestBase:41 - Test name: testAddAdminPage
+2019-07-30 14:38:49 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:52:53 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:53:02 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:53:02 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 14:53:07 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:53:10 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 14:53:10 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:53:12 INFO  TestBase:48 - Browser Closed
+2019-07-30 14:53:12 INFO  TestBase:25 - Initiate Browser
+2019-07-30 14:53:20 INFO  TestBase:31 - Browser Initiated
+2019-07-30 14:53:20 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 14:53:25 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 14:53:28 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=FAILURE method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 14:53:28 INFO  TestBase:46 - Closing Browser
+2019-07-30 14:53:29 INFO  TestBase:48 - Browser Closed
+2019-07-30 15:54:11 INFO  TestBase:25 - Initiate Browser
+2019-07-30 15:54:20 INFO  TestBase:31 - Browser Initiated
+2019-07-30 15:54:20 INFO  TestBase:41 - Test name: testSearchAdmin
+2019-07-30 15:54:25 INFO  HomePage:24 - Link /index.php/admin/viewAdminModule Clicked
+2019-07-30 15:54:28 INFO  TestBase:53 - Executed test case name:testSearchAdmin Execution Results: [TestResult name=testSearchAdmin status=SUCCESS method=UserManagementTestPage.testSearchAdmin(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.sgic.automation.Testes.AdminTest.UserManagementTestPage@72b6cbcc] output={null}]
+2019-07-30 15:54:28 INFO  TestBase:46 - Closing Browser
+2019-07-30 15:54:31 INFO  TestBase:48 - Browser Closed
+>>>>>>> 44ea116503bbd4a01e3451557d01ecf8cc5951e6
