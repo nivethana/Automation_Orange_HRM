@@ -13,11 +13,17 @@ public class UserDetailsDataProvider {
     @DataProvider
     public static Object[][] MultipleUserDetails() {
         return new Object[][]{
-        	    {"", ""},
-        		{"John", "John123"},
-                {"Siva", "Siva456"},
-                //{Constants.LOGIN_USER_NAME,"errorPassword"},
-                {"errorUsername","admin123"}
+                {"", "",Constants.LOGIN_INVALID_MSG},
+                {"John", "John123",Constants.LOGIN_INVALID_MSG2},
+                {"Siva", "Siva456",Constants.LOGIN_INVALID_MSG2},
+                {Constants.LOGIN_USER_NAME, "rfffggg",Constants.LOGIN_INVALID_MSG2},
+                { "rfffggg",Constants.LOGIN_PASSWORD, Constants.LOGIN_INVALID_MSG2},
+                {Constants.LOGIN_USER_NAME, "",Constants.LOGIN_INVALID_MSG3},
+                { "",Constants.LOGIN_PASSWORD, Constants.LOGIN_INVALID_MSG4},
+
+
+
+
         };
     }
 

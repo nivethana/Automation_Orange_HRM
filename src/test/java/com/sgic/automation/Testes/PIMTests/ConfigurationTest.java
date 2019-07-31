@@ -1,15 +1,47 @@
 package com.sgic.automation.Testes.PIMTests;
 
+import com.sgic.automation.Pages.HomePage;
+import com.sgic.automation.Pages.PIM.CustomFields;
+import com.sgic.automation.Pages.PIM.OptionalFileds;
+import com.sgic.automation.Pages.PIM.PIMPage;
+import com.sgic.automation.Utils.Constants;
 import com.sgic.automation.Utils.TestBase;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
+
 public class ConfigurationTest extends TestBase {
     @Test(priority = 1)
-    public void optioalFiles(){
-    softAssert = new SoftAssert();
+    public void EditConfigurePMI() {
+        softAssert = new SoftAssert();
+        HomePage.clickLink(Constants.PMI_SUB_LINK);
+        PIMPage.ConfigSubClick();
+        HomePage.clickLink(Constants.CONFIG_OPTION_LINK);
+        softAssert.assertTrue(OptionalFileds.isEditconfigurationDisplayed(), "Edit Configuration Page is not Displayed");
+        softAssert.assertTrue(OptionalFileds.isconfigPim_chkDeprecateFieldsDisplayed(), "Configuration Page is editable");
+        OptionalFileds.EditConfigurationButtonClick();
+        softAssert.assertTrue(OptionalFileds.isconfigPim_chkDeprecateFieldsDisplayed(), "NickName Check box is editable");
+        OptionalFileds.ClickNickNameChk();
+        softAssert.assertTrue(OptionalFileds.isNickNameChecked(), "NickNamecheck is not Checked");
+        OptionalFileds.UnClickSSNChk();
+        softAssert.assertFalse(OptionalFileds.isSSNChecked(), "SSN check is Checked");
+        OptionalFileds.SaveConfigurationButtonClick();
+        softAssert.assertTrue(OptionalFileds.GetData().contains(Constants.SAVE_SUCCESS_MESSAGE), "invalid message");
+        softAssert.assertAll();
 
     }
+
+    @Test(priority = 2)
+    public void AddCustomPIM() {
+        softAssert = new SoftAssert();
+        HomePage.clickLink(Constants.PMI_SUB_LINK);
+        PIMPage.ConfigSubClick();
+        HomePage.clickLink(Constants.CUSTOM_FIELDS_LINK);
+        softAssert.assertEquals(CustomFields.GetData(),Constants.CUSTOM_HEADING, "invalid text");
+
+        softAssert.assertAll();
+    }
+
 
 
 }
